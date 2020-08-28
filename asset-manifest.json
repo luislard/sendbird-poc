@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sendbird-poc/static/css/main.5995eb13.chunk.css",
+    "main.js": "/sendbird-poc/static/js/main.d19058b2.chunk.js",
+    "main.js.map": "/sendbird-poc/static/js/main.d19058b2.chunk.js.map",
+    "runtime-main.js": "/sendbird-poc/static/js/runtime-main.73f53162.js",
+    "runtime-main.js.map": "/sendbird-poc/static/js/runtime-main.73f53162.js.map",
+    "static/js/2.ef6ac467.chunk.js": "/sendbird-poc/static/js/2.ef6ac467.chunk.js",
+    "static/js/2.ef6ac467.chunk.js.map": "/sendbird-poc/static/js/2.ef6ac467.chunk.js.map",
+    "index.html": "/sendbird-poc/index.html",
+    "precache-manifest.1c3b13b3c42a78fda653c168e060f4f9.js": "/sendbird-poc/precache-manifest.1c3b13b3c42a78fda653c168e060f4f9.js",
+    "service-worker.js": "/sendbird-poc/service-worker.js",
+    "static/css/main.5995eb13.chunk.css.map": "/sendbird-poc/static/css/main.5995eb13.chunk.css.map",
+    "static/js/2.ef6ac467.chunk.js.LICENSE.txt": "/sendbird-poc/static/js/2.ef6ac467.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73f53162.js",
+    "static/js/2.ef6ac467.chunk.js",
+    "static/css/main.5995eb13.chunk.css",
+    "static/js/main.d19058b2.chunk.js"
+  ]
+}
